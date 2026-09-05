@@ -1,4 +1,12 @@
 # Step_semester_3
+## Session 1 Log - September 5, 2026
+
+Completed and verified string problem implementations on `feature/session_1`:
+- RockPaperScissorArcade.java
+- PalindromeChecker.java
+- BmiCalculator.java
+- FirstNonRepeatingChar.java
+- ReverseCustomerName.java
 # Step_semester_3
 
 ## Date: 05-09-2026
